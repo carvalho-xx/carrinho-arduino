@@ -1,6 +1,6 @@
 # 🤖 Carrinho Robô Arduino com Bluetooth e Sensor
 
-Projeto de um carrinho robô 2WD controlado por aplicativo via Bluetooth e com desvio automático de obstáculos usando sensor ultrassônico.
+Projeto de um carrinho robô controlado por aplicativo via Bluetooth e com freio automático de obstáculos usando sensor ultrassônico.
 
 
 
